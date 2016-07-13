@@ -1,0 +1,19 @@
+{
+  "name": "ask-the-audience",
+  "version": "1.0.0",
+  "description": "real time voting app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/gkhalsa/ask-the-audience"
+  },
+  "keywords": [
+    "real-time"
+  ],
+  "author": "Gurusundesh Khalsa",
+  "license": "MIT"
+}
